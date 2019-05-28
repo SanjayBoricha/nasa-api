@@ -12,3 +12,23 @@
   padding: 0;
   color: white;
 }
+
+body {
+  width: 100vw;
+}
+
+img {
+  width: 100%;
+}
+
+div {
+  width: 100%;
+}
+
+h1,
+small,
+p {
+  display: block;
+  text-align: center;
+  padding: 0.5vw;
+}
