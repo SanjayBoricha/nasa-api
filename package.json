@@ -1,7 +1,7 @@
 {
   "name": "nasa-api",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "homepage": "https://sanjayboricha.github.io/nasa-api",
   "dependencies": {
     "gh-pages": "^2.0.1",
