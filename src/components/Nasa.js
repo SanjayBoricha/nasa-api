@@ -27,6 +27,7 @@ export class Nasa extends Component {
     const data = { ...nasa };
     return (
       <div>
+	<h1>Welcome to nasa</h1>
         <h1>{data.title}</h1>
         <small>{data.date}</small>
         <img src={data.url} alt="img" />
